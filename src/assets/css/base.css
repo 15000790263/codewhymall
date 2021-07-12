@@ -1,0 +1,9 @@
+@import "./reset.css";
+@import "./normalize.css";
+@import "./fa/css/all.css";
+
+/* 
+  :root
+    - 根元素选择器，获取根元素，html
+ */
+
